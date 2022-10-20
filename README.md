@@ -2,14 +2,13 @@
 BA775 Subject Of Questrom School Of Business, Boston University, Done under Prof. Mohammad Soltanieh Ha, as EDA for Udemy Dated 20th Oct 2022.
 
 Contributors to this project as teams members are listed here:
-
-Harshil Thakkar
-Howard Chang
-Jinisha Kande
-Renata Halim
+Harshil Thakkar,
+Howard Chang,
+Jinisha Kande,
+Renata Halim,
 Ryan Li
 
-Citations: 
+Citations:
 
 Jil Kothari. (2020). IT & Software Courses Udemy - 22k+ courses [Data set]. Kaggle (https://doi.org/10.34740/KAGGLE/DSV/1554788)
 
